@@ -16,6 +16,13 @@ Para los iconos de Material-UI, instala también:
 npm install @mui/icons-material
 ```
 
+Para instalar las fuentes
+
+``` shell
+npm install @fontsource/roboto
+```
+
+
 ## Paso 2: Modificar _app.tsx
 Edita el archivo _app.tsx en la carpeta pages para integrar el tema y estilos de Material-UI. Agrega el siguiente código al archivo:
 
